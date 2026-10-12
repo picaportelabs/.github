@@ -13,7 +13,7 @@ AI is changing how software is written, shipped and run: agents already open pul
 
 <table>
   <tr>
-    <td width="96" align="center" valign="top"><a href="https://kubelatch.com/"><img src="kubelatch.png" alt="kubelatch" width="64" height="64"></a></td>
+    <td width="96" align="center" valign="top"><a href="https://kubelatch.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="kubelatch-dark.svg"><img src="kubelatch-light.svg" alt="kubelatch" width="64" height="64"></picture></a></td>
     <td valign="top">
       <strong><a href="https://kubelatch.com/">kubelatch</a></strong>, stop messing with Kubernetes credentials.<br>
       A credential broker for Kubernetes: every person, every CI pipeline and every AI agent gets a credential of their own for your clusters. Each one has an owner, an expiry and a record of every request, and can be revoked instantly. Free for up to 2 clusters and 5 people, with no time limit.<br>
